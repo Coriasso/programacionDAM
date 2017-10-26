@@ -1,0 +1,9 @@
+#Ignora los binarios
+*.class
+
+#Ignora copias de seguridad
+*~
+*.swp
+
+#Ignora la carpeta de documentacion
+/doc
