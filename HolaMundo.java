@@ -16,6 +16,6 @@ public class HolaMundo{
 
 		
 		System.out.println("Hello, World");
-		System.out.prontln("Bonjour, Monde");
+		System.out.println("Bonjour, Monde");
 }
 }
