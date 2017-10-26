@@ -14,7 +14,8 @@ public class HolaMundo{
 		}
 	public static void saludarEnIngles (){
 
-		System.out.println("Hi");
+		
 		System.out.println("Hello, World");
+		System.out.prontln("Bonjour, Monde");
 }
 }
