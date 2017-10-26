@@ -10,9 +10,9 @@ public class HolaMundo{
 
 	public static void main (String[] arg){
 		System.out.println("Hola, Mundo");
-		saludarEnIngles();
+		saludarEnIdiomas();
 		}
-	public static void saludarEnIngles (){
+	public static void saludarEnIdiomas (){
 
 		
 		System.out.println("Hello, World");
